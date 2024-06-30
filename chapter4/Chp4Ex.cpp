@@ -1,3 +1,6 @@
+// Dollar game program
+// Muizz Jakhar June 30 2024
+
 #include <iostream>
 
 using namespace std;
