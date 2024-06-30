@@ -1,6 +1,8 @@
 {
 	"files.associations": {
 		"*.jsx": "javascriptreact",
-		"istream": "cpp"
+		"istream": "cpp",
+		"chrono": "cpp",
+		"iostream": "cpp"
 	}
 }
