@@ -1,4 +1,4 @@
-//Muizz Jakhar Jul10, 2024
+//Muizz Jakhar Jul 2, 2024
 
 #include <iostream>
 using namespace std;

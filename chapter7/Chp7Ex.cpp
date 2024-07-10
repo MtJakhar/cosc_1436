@@ -44,7 +44,7 @@ int main () {
   double average = total / NUM_MONTHS;
 
   cout << "Average rainfall: " << average << " inches." << endl;
-  cout << "Highest month of rainfall: " << (largestElement +1) << endl;
+  cout << "Highest month of rainfall: " << (largestElement + 1) << endl;
   cout << "Lowest amount of rainfall: " << (smallestElement + 1) << endl;
 
   return 0;
