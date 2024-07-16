@@ -16,7 +16,7 @@ int main () {
   }
 
   numbers.push_back(randomNumber(randEngine));
-  numbers.pop_back();
+  // numbers.pop_back();
   cout<< "New list with rand numbers" << endl;
   for(int val : numbers) {
     cout << val << endl;
